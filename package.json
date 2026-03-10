@@ -1,0 +1,21 @@
+{
+  "name": "build-a-rest-api",
+  "version": "1.0.0",
+  "description": "A dataset of the planet’s most interesting places",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obrnocsta/build-a-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/obrnocsta/build-a-rest-api/issues"
+  },
+  "homepage": "https://github.com/obrnocsta/build-a-rest-api#readme"
+}
